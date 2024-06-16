@@ -1,0 +1,14 @@
+project:1:10000
+project:2:20000
+project:3:30000
+employee:driver:1:Arseniy Randin:1000
+employee:cleaner:2:Timofey Xoxol:1500
+employee:tester:3:Ebor Gusarov:1200:2
+employee:programmer:4:Alexandr Chistov:2000:1
+employee:team_leader:5: Artemio Prokopets:2500:3
+employee:project_manager:6:Irina Malinina:0:3
+employee:project_manager:7: Andruha D9tlov:0:2
+employee:senior_manager:8: Chistyakov Slavik:0:1:2
+employee:senior_manager:9: Safronov Ivan:0:2:3
+employee:senior_manager:10: Semen Borisov :0:1:2:3
+
